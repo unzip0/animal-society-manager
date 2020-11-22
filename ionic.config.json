@@ -1,0 +1,7 @@
+{
+  "name": "animal-society-tool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
